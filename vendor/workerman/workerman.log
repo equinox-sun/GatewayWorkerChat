@@ -1,0 +1,432 @@
+2020-07-14 05:30:06 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:07 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:08 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:09 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:10 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:11 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:12 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:13 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:14 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:15 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:16 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:17 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:18 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:19 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:20 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:21 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:22 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:23 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 05:30:24 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 06:26:20 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'GatewayWorker\Lib\DataManager' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 280"
+2020-07-14 06:26:21 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'GatewayWorker\Lib\DataManager' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 280"
+2020-07-14 06:26:22 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'GatewayWorker\Lib\DataManager' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 280"
+2020-07-14 06:26:23 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'GatewayWorker\Lib\DataManager' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 280"
+2020-07-14 06:26:24 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'GatewayWorker\Lib\DataManager' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 280"
+2020-07-14 06:26:25 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'GatewayWorker\Lib\DataManager' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 280"
+2020-07-14 06:26:26 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'GatewayWorker\Lib\DataManager' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 280"
+2020-07-14 06:27:07 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'DataManager' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 279"
+2020-07-14 06:27:08 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'DataManager' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 279"
+2020-07-14 06:27:09 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'DataManager' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 279"
+2020-07-14 07:00:36 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:00:37 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:00:38 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:00:39 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:45 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:46 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:47 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:48 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:49 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:50 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:53 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:54 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:55 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:56 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:57 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:58 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:03:59 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:04:00 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:07 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:08 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:09 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:10 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:11 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:12 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:31 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:32 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:33 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:34 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:35 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:36 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 07:06:37 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:BusinessWorker001:0
+2020-07-14 08:16:59 pid:1 exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1709
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1709): PDO->__construct('mysql:dbname=te...', 'root', 'root', Array)
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1695): GatewayWorker\Lib\DbConnection->connect()
+#2 D:\code\123odm_backend\vendor\workerman\gateway-worker-for-win\src\Lib\DataManager.php(27): GatewayWorker\Lib\DbConnection->__construct('127.0.0.1', 3306, 'root', 'root', 'test')
+#3 D:\code\123odm_backend\application\gatewayapp\Events.php(282): GatewayWorker\Lib\DataManager->__construct()
+#4 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(223): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#6 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#7 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2393): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#8 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#9 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#10 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#11 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#12 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(31): Workerman\Worker::runAll()
+#13 [internal function]: GwBusinessWorker->index()
+#14 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(8): call_user_func_array(Array, Array)
+#15 {main}
+2020-07-14 08:17:00 pid:1 Worker process terminated
+2020-07-14 08:17:01 pid:1 exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1709
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1709): PDO->__construct('mysql:dbname=te...', 'root', 'root', Array)
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1695): GatewayWorker\Lib\DbConnection->connect()
+#2 D:\code\123odm_backend\vendor\workerman\gateway-worker-for-win\src\Lib\DataManager.php(27): GatewayWorker\Lib\DbConnection->__construct('127.0.0.1', 3306, 'root', 'root', 'test')
+#3 D:\code\123odm_backend\application\gatewayapp\Events.php(282): GatewayWorker\Lib\DataManager->__construct()
+#4 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(223): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#6 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#7 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2393): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#8 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#9 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#10 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#11 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#12 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(31): Workerman\Worker::runAll()
+#13 [internal function]: GwBusinessWorker->index()
+#14 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(8): call_user_func_array(Array, Array)
+#15 {main}
+2020-07-14 08:17:02 pid:1 Worker process terminated
+2020-07-14 08:17:03 pid:1 exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1709
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1709): PDO->__construct('mysql:dbname=te...', 'root', 'root', Array)
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1695): GatewayWorker\Lib\DbConnection->connect()
+#2 D:\code\123odm_backend\vendor\workerman\gateway-worker-for-win\src\Lib\DataManager.php(27): GatewayWorker\Lib\DbConnection->__construct('127.0.0.1', 3306, 'root', 'root', 'test')
+#3 D:\code\123odm_backend\application\gatewayapp\Events.php(282): GatewayWorker\Lib\DataManager->__construct()
+#4 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(223): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#6 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#7 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2393): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#8 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#9 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#10 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#11 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#12 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(31): Workerman\Worker::runAll()
+#13 [internal function]: GwBusinessWorker->index()
+#14 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(8): call_user_func_array(Array, Array)
+#15 {main}
+2020-07-14 08:38:23 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 22"
+2020-07-14 08:38:23 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 22"
+2020-07-14 08:38:24 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 22"
+2020-07-14 08:38:26 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 22"
+2020-07-14 08:38:26 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 22"
+2020-07-14 09:31:34 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'app\api\controller\Api' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 21"
+2020-07-14 09:31:35 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'app\api\controller\Api' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 21"
+2020-07-14 09:31:36 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'app\api\controller\Api' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 21"
+2020-07-14 09:31:37 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'app\api\controller\Api' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 21"
+2020-07-14 09:31:38 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'app\api\controller\Api' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 21"
+2020-07-14 09:58:42 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'app\common\library\Token' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 88"
+2020-07-14 09:58:45 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'app\common\library\Token' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 88"
+2020-07-14 09:58:48 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'app\common\library\Token' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 88"
+2020-07-15 02:01:26 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:01:27 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:01:28 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:01:29 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:01:30 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:01:31 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:09:09 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:09:09 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:09:10 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:09:11 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:09:12 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:09:13 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:09:14 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class Composer\Autoload\ComposerStaticInitb7ec6605f1575d714f2dc34819edcd74 in D:\code\123odm_backend\vendor\composer\autoload_static.php on line 8"
+2020-07-15 02:42:34 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Token' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 88"
+2020-07-15 02:42:37 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Token' not found in D:\code\123odm_backend\application\gatewayapp\Events.php on line 88"
+2020-07-15 06:19:11 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'else' (T_ELSE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 153"
+2020-07-15 06:19:12 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'else' (T_ELSE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 153"
+2020-07-15 06:19:13 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'else' (T_ELSE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 153"
+2020-07-15 06:19:14 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'else' (T_ELSE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 153"
+2020-07-15 06:19:15 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'else' (T_ELSE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 153"
+2020-07-16 06:51:41 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'throw' (T_THROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 138"
+2020-07-16 06:51:41 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'throw' (T_THROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 138"
+2020-07-16 06:51:42 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'throw' (T_THROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 138"
+2020-07-16 06:51:43 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'throw' (T_THROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 138"
+2020-07-16 06:51:44 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'throw' (T_THROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 138"
+2020-07-16 06:51:45 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'throw' (T_THROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 138"
+2020-07-16 06:55:04 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'catch' (T_CATCH) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 165"
+2020-07-16 06:55:05 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'catch' (T_CATCH) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 165"
+2020-07-16 07:07:55 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php on line 73"
+2020-07-16 07:07:56 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php on line 73"
+2020-07-16 07:07:57 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php on line 73"
+2020-07-16 07:07:58 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php on line 73"
+2020-07-16 07:08:58 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php on line 73"
+2020-07-16 07:10:37 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'return' (T_RETURN) in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php on line 73"
+2020-07-16 07:21:26 pid:1 Worker process terminated with ERROR: E_ERROR "Call to undefined method GatewayWorker\Lib\DataManager::getUserByUser() in D:\code\123odm_backend\application\gatewayapp\Events.php on line 217"
+2020-07-16 07:27:29 pid:1 Worker process terminated with ERROR: E_ERROR "Call to protected method GatewayWorker\Lib\DbConnection::execute() from context 'GatewayWorker\Lib\DataManager' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php on line 122"
+2020-07-16 07:30:09 pid:1 Worker process terminated with ERROR: E_ERROR "Access to undeclared static property: Events::$USER_PRE in D:\code\123odm_backend\application\gatewayapp\Events.php on line 135"
+2020-07-16 07:32:06 pid:1 Worker process terminated with ERROR: E_ERROR "Call to protected method GatewayWorker\Lib\DbConnection::execute() from context 'GatewayWorker\Lib\DataManager' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php on line 122"
+2020-07-16 07:34:28 pid:1 Worker process terminated with ERROR: E_ERROR "Call to protected method GatewayWorker\Lib\DbConnection::execute() from context 'GatewayWorker\Lib\DataManager' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php on line 122"
+2020-07-16 07:34:49 pid:1 Worker process terminated with ERROR: E_ERROR "Call to protected method GatewayWorker\Lib\DbConnection::execute() from context 'GatewayWorker\Lib\DataManager' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php on line 122"
+2020-07-16 08:17:29 pid:1 Worker process terminated with ERROR: E_ERROR "Uncaught exception 'PDOException' with message 'SQL:update odm_chat_user set clients_id='' ,is_online=0 where lastlogin<1594862249 SQLSTATE[42S22]: Column not found: 1054 Unknown column 'lastlogin' in 'where clause'' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1766
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1824): GatewayWorker\Lib\DbConnection->execute('update odm_chat...', NULL)
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php(260): GatewayWorker\Lib\DbConnection->query('update odm_chat...')
+#2 [internal function]: GatewayWorker\Lib\DataManager->updateUserIsOline()
+#3 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(232): call_user_func_array(Array, Array)
+#4 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(281): Workerman\Events\Select->tick()
+#5 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+# in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php on line 1766"
+2020-07-16 08:47:30 pid:1 Worker process terminated with ERROR: E_ERROR "Uncaught exception 'PDOException' with message 'SQL:update odm_chat_user set clients_id='' ,is_online=0 where lastlogin<1594864050 SQLSTATE[42S22]: Column not found: 1054 Unknown column 'lastlogin' in 'where clause'' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1766
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1824): GatewayWorker\Lib\DbConnection->execute('update odm_chat...', NULL)
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php(260): GatewayWorker\Lib\DbConnection->query('update odm_chat...')
+#2 [internal function]: GatewayWorker\Lib\DataManager->updateUserIsOline()
+#3 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(232): call_user_func_array(Array, Array)
+#4 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(281): Workerman\Events\Select->tick()
+#5 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+# in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php on line 1766"
+2020-07-16 09:17:30 pid:1 Worker process terminated with ERROR: E_ERROR "Uncaught exception 'PDOException' with message 'SQL:update odm_chat_user set clients_id='' ,is_online=0 where lastlogin<1594865850 SQLSTATE[42S22]: Column not found: 1054 Unknown column 'lastlogin' in 'where clause'' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1766
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1824): GatewayWorker\Lib\DbConnection->execute('update odm_chat...', NULL)
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php(260): GatewayWorker\Lib\DbConnection->query('update odm_chat...')
+#2 [internal function]: GatewayWorker\Lib\DataManager->updateUserIsOline()
+#3 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(232): call_user_func_array(Array, Array)
+#4 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(281): Workerman\Events\Select->tick()
+#5 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+# in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php on line 1766"
+2020-07-16 09:17:31 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 229"
+2020-07-16 09:17:32 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 233"
+2020-07-16 09:17:33 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 233"
+2020-07-16 09:17:34 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 233"
+2020-07-16 09:17:35 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 233"
+2020-07-16 09:17:36 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 233"
+2020-07-16 09:17:37 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 233"
+2020-07-16 09:17:38 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 233"
+2020-07-16 09:17:39 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 233"
+2020-07-16 09:17:40 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 233"
+2020-07-16 09:17:41 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:41 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:42 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:42 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:43 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:43 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:44 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:44 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:45 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:45 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:46 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:46 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:47 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:47 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:48 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:48 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:49 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:49 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:50 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:50 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:51 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:51 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:52 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:52 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:53 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:53 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:54 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:54 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:55 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:55 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:56 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:56 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:57 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:57 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:58 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:58 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:17:59 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:17:59 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:00 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:00 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:01 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:01 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:02 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:02 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:03 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:03 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:04 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:04 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:05 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:05 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:06 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:06 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:07 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:07 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:08 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:08 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:09 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:09 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:10 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-16 09:18:10 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:11 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-16 09:18:11 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ',' in D:\code\123odm_backend\application\gatewayapp\Events.php on line 234"
+2020-07-17 07:53:02 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in D:\code\123odm_backend\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\workerman\Connection\TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Gateway.php(773): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 D:\code\123odm_backend\vendor\workerman\workerman\Connection\TcpConnection.php(660): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #93)
+#5 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(293): call_user_func_array(Array, Array)
+#6 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#7 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\Gateway->run()
+#9 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#10 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#11 D:\code\123odm_backend\application\gatewayapp\start_gateway.php(56): Workerman\Worker::runAll()
+#12 [internal function]: GwGateway->index()
+#13 D:\code\123odm_backend\application\gatewayapp\start_gateway.php(7): call_user_func_array(Array, Array)
+#14 {main}
+2020-07-17 07:53:02 pid:1 Worker process terminated
+2020-07-17 07:53:19 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in D:\code\123odm_backend\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\workerman\Connection\TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Gateway.php(773): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 D:\code\123odm_backend\vendor\workerman\workerman\Connection\TcpConnection.php(660): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #93)
+#5 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(293): call_user_func_array(Array, Array)
+#6 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#7 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\Gateway->run()
+#9 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#10 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#11 D:\code\123odm_backend\application\gatewayapp\start_gateway.php(56): Workerman\Worker::runAll()
+#12 [internal function]: GwGateway->index()
+#13 D:\code\123odm_backend\application\gatewayapp\start_gateway.php(7): call_user_func_array(Array, Array)
+#14 {main}
+2020-07-17 07:53:19 pid:1 Worker process terminated
+2020-07-17 08:01:02 pid:1 exception 'PDOException' with message 'SQL:INSERT INTO `odm_chat_log` ( `staff_id`,`customer_id`,`type`,`msg_content`,`goods_id`,`record_time`) VALUES ( :staff_id,:customer_id,:type,:msg_content,:goods_id,:record_time) SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'å°äºŒé»‘' for column 'type' at row 1' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1766
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1824): GatewayWorker\Lib\DbConnection->execute('INSERT INTO `od...', Array)
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php(35): GatewayWorker\Lib\DbConnection->query()
+#2 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php(167): GatewayWorker\Lib\DataManager::insert('odm_chat_log', Array)
+#3 D:\code\123odm_backend\application\gatewayapp\Events.php(234): GatewayWorker\Lib\DataManager->recordMsg(1, 19, '\xE5\xB0\x8F\xE4\xBA\x8C\xE9\xBB\x91', 2, 0)
+#4 [internal function]: Events::onMessage('7f0000010b54000...', '{"type":"say", ...')
+#5 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(404): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"say", ...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 D:\code\123odm_backend\vendor\workerman\workerman\Connection\TcpConnection.php(660): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #89)
+#9 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(293): call_user_func_array(Array, Array)
+#10 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#11 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#12 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#13 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#14 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#15 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(31): Workerman\Worker::runAll()
+#16 [internal function]: GwBusinessWorker->index()
+#17 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(8): call_user_func_array(Array, Array)
+#18 {main}
+2020-07-17 08:01:02 pid:1 Worker process terminated
+2020-07-17 08:01:05 pid:1 exception 'PDOException' with message 'SQL:INSERT INTO `odm_chat_log` ( `staff_id`,`customer_id`,`type`,`msg_content`,`goods_id`,`record_time`) VALUES ( :staff_id,:customer_id,:type,:msg_content,:goods_id,:record_time) SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'é˜¿æœ' for column 'type' at row 1' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1766
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1824): GatewayWorker\Lib\DbConnection->execute('INSERT INTO `od...', Array)
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php(35): GatewayWorker\Lib\DbConnection->query()
+#2 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php(167): GatewayWorker\Lib\DataManager::insert('odm_chat_log', Array)
+#3 D:\code\123odm_backend\application\gatewayapp\Events.php(234): GatewayWorker\Lib\DataManager->recordMsg(1, 19, '\xE9\x98\xBF\xE6\x9D\x9C', 2, 0)
+#4 [internal function]: Events::onMessage('7f0000010b54000...', '{"type":"say", ...')
+#5 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(404): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"say", ...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 D:\code\123odm_backend\vendor\workerman\workerman\Connection\TcpConnection.php(660): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #89)
+#9 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(293): call_user_func_array(Array, Array)
+#10 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#11 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#12 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#13 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#14 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#15 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(31): Workerman\Worker::runAll()
+#16 [internal function]: GwBusinessWorker->index()
+#17 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(8): call_user_func_array(Array, Array)
+#18 {main}
+2020-07-17 08:01:05 pid:1 Worker process terminated
+2020-07-17 08:16:17 pid:1 exception 'Exception' with message 'Got data successfully' in D:\code\123odm_backend\application\gatewayapp\Events.php:140
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', '{"type":"login"...')
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(404): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"login"...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\code\123odm_backend\vendor\workerman\workerman\Connection\TcpConnection.php(660): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #89)
+#5 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(293): call_user_func_array(Array, Array)
+#6 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#7 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#8 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#9 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#10 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#11 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(31): Workerman\Worker::runAll()
+#12 [internal function]: GwBusinessWorker->index()
+#13 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(8): call_user_func_array(Array, Array)
+#14 {main}
+2020-07-17 08:16:17 pid:1 Worker process terminated
+2020-07-17 09:10:47 pid:1 Worker process terminated with ERROR: E_ERROR "Call to a member function setPsr4() on null in D:\code\123odm_backend\application\gatewayapp\Events.php on line 253"
+2020-07-17 09:45:22 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 24"
+2020-07-17 09:45:23 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 24"
+2020-07-17 09:45:24 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 24"
+2020-07-17 09:45:25 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 24"
+2020-07-20 02:56:01 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:02 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:03 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:04 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:05 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:06 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:07 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:08 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:09 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:10 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:11 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected 'self' (T_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 02:56:11 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-07-20 05:29:07 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '=>' (T_DOUBLE_ARROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 176"
+2020-07-20 05:29:07 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '=>' (T_DOUBLE_ARROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 176"
+2020-07-20 05:29:08 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '=>' (T_DOUBLE_ARROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 176"
+2020-07-20 05:29:09 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '=>' (T_DOUBLE_ARROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 176"
+2020-07-20 05:29:10 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '=>' (T_DOUBLE_ARROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 176"
+2020-07-20 05:29:11 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '=>' (T_DOUBLE_ARROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 176"
+2020-07-20 05:29:12 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '=>' (T_DOUBLE_ARROW) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 176"
+2020-07-20 05:38:49 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ''login'' (T_CONSTANT_ENCAPSED_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 05:38:50 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ''login'' (T_CONSTANT_ENCAPSED_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-20 05:38:51 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ''login'' (T_CONSTANT_ENCAPSED_STRING) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 87"
+2020-07-22 05:22:41 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2020-07-22 05:22:41 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2020-07-22 05:24:33 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require(): Failed opening required 'D:\code\123odm_backend\application\gatewayapp../extra/zh-cn_api.php' (include_path='.;C:\php\pear') in D:\code\123odm_backend\application\gatewayapp\Events.php on line 266"
+2020-07-22 05:24:36 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require(): Failed opening required 'D:\code\123odm_backend\application\gatewayapp../extra/zh-cn_api.php' (include_path='.;C:\php\pear') in D:\code\123odm_backend\application\gatewayapp\Events.php on line 257"
+2020-07-22 05:24:39 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require(): Failed opening required 'D:\code\123odm_backend\application\gatewayapp../extra/zh-cn_api.php' (include_path='.;C:\php\pear') in D:\code\123odm_backend\application\gatewayapp\Events.php on line 257"
+2020-07-23 05:34:12 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '$customer_list' (T_VARIABLE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 103"
+2020-07-23 05:34:13 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '$customer_list' (T_VARIABLE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 103"
+2020-07-23 05:34:14 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '$customer_list' (T_VARIABLE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 103"
+2020-07-23 05:34:15 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '$customer_list' (T_VARIABLE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 103"
+2020-07-23 05:34:16 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '$customer_list' (T_VARIABLE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 103"
+2020-07-23 05:34:17 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '$customer_list' (T_VARIABLE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 103"
+2020-07-23 05:34:18 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '$customer_list' (T_VARIABLE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 103"
+2020-07-23 05:34:19 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '$customer_list' (T_VARIABLE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 103"
+2020-07-23 05:34:20 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '$customer_list' (T_VARIABLE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 103"
+2020-07-23 05:34:21 pid:1 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '$customer_list' (T_VARIABLE) in D:\code\123odm_backend\application\gatewayapp\Events.php on line 103"
+2020-07-23 05:35:08 pid:1 exception 'PDOException' with message 'SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓÐÕýÈ·´ð¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓÐ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+' in D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1709
+Stack trace:
+#0 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1709): PDO->__construct('mysql:dbname=70...', 'root', 'root', Array)
+#1 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1695): GatewayWorker\Lib\DbConnection->connect()
+#2 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\Lib\DataManager.php(26): GatewayWorker\Lib\DbConnection->__construct('192.168.80.240', 3306, 'root', 'root', '7000mall_123odm')
+#3 D:\code\123odm_backend\application\gatewayapp\Events.php(193): GatewayWorker\Lib\DataManager->__construct('192.168.80.240', 3306, 'root', 'root', '7000mall_123odm')
+#4 D:\code\123odm_backend\application\gatewayapp\Events.php(87): Events::onConnectDB()
+#5 [internal function]: Events::onMessage('7f0000010b54000...', '{"type":"login"...')
+#6 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(404): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"login"...')
+#7 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 D:\code\123odm_backend\vendor\workerman\workerman\Connection\TcpConnection.php(660): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#9 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #89)
+#10 D:\code\123odm_backend\vendor\workerman\workerman\Events\Select.php(293): call_user_func_array(Array, Array)
+#11 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#12 D:\code\123odm_backend\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#13 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#14 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#15 D:\code\123odm_backend\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#16 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(31): Workerman\Worker::runAll()
+#17 [internal function]: GwBusinessWorker->index()
+#18 D:\code\123odm_backend\application\gatewayapp\start_businessworker.php(8): call_user_func_array(Array, Array)
+#19 {main}
+2020-07-23 05:35:08 pid:1 Worker process terminated
